@@ -1,6 +1,5 @@
 <h3 align="left">Hi,✨ I'm Kushana Senadheera</h3>
 <h4 align="left">I am a software engineering student passionate about web development👩🏻‍💻</h4>
-
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
